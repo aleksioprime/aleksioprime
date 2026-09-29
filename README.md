@@ -1,8 +1,9 @@
-## Привет, я Алексей Сёмочкин 👋
+## Привет! Я Алексей 👋
 
-Web-разработчик полного цикла: создаю образовательные и наукоёмкие платформы, микросервисы и API,
-работаю с ML и IoT. Много лет совмещал разработку с преподаванием и наставничеством.
+Разработчик и инженер. Создаю программные продукты - от веб-платформ и AI-инструментов до приложений для оборудования и программно-аппаратных систем.
 
-**Стек:** Python · FastAPI · Vue.js · PostgreSQL · Docker
+Много лет совмещал разработку с преподаванием и наставничеством, а сейчас сосредоточен на создании собственных и прикладных проектов.
 
-[aledev.ru](https://aledev.ru) · [Telegram](https://t.me/aleksioprime) · [alesemochkin@yandex.ru](mailto:alesemochkin@yandex.ru)
+**Основной стек:** Python · Django · FastAPI · Vue.js · PostgreSQL · Redis · Docker
+
+🌐 [aledev.ru](https://aledev.ru) · 💬 [Telegram](https://t.me/aleksioprime) · ✉️ [Email](mailto:alesemochkin@yandex.ru)
